@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.jxmapviewer:jxmapviewer2:2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jxmapviewer/jxmapviewer2/2.2/jxmapviewer2-2.2.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jxmapviewer/jxmapviewer2/2.2/jxmapviewer2-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

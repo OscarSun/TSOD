@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: jgridshift:jgridshift:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jgridshift/jgridshift/1.0/jgridshift-1.0.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jgridshift/jgridshift/1.0/jgridshift-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
